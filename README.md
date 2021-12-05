@@ -17,3 +17,4 @@ You need to have git installed You can install it with the following command in 
 ## Setup
 To access this project on your local files, you can clone it using these steps
 
+1. Open your terminal
