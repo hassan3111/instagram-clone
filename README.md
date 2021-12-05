@@ -11,3 +11,4 @@ This is an iunstagram clone website where user can upload images and visit other
 ## Prerequisites
 You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
 
+## Requirements
