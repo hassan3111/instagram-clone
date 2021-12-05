@@ -23,3 +23,7 @@ To access this project on your local files, you can clone it using these steps
 
 
 ## Technologies Used
+1. python3.8
+2. Boostrap
+3. Django
+4. Html
