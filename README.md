@@ -18,3 +18,4 @@ You need to have git installed You can install it with the following command in 
 To access this project on your local files, you can clone it using these steps
 
 1. Open your terminal
+2. Use this command to clone `$ git clone https://github.com/hassan3111/instagram-clone.git
