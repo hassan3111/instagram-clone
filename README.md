@@ -27,3 +27,5 @@ To access this project on your local files, you can clone it using these steps
 2. Boostrap
 3. Django
 4. Html
+
+## Contact Info:
